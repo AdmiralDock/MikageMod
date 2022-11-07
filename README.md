@@ -3,8 +3,9 @@ This is a modification for the game Freedom Planet 2 that adds my character Mika
 Once installed you can find her on Paradise Prime!  
 
 ## 1-click Install:  
-[Use FP2 Mod Manager](https://gamebanana.com/tools/10870).  
-[![]("https://gamebanana.com/mods/embeddables/411008?type=medium_square")](https://gamebanana.com/mods/411008)
+[Use FP2 Mod Manager](https://gamebanana.com/tools/10870)  
+
+[![](https://user-images.githubusercontent.com/33236735/200410506-5b1121ec-865b-4b5e-981a-cb429b8db2ea.jpg)](https://gamebanana.com/mods/411008)
 
 ## Manual Install:  
 
