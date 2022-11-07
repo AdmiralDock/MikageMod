@@ -4,6 +4,7 @@ Once installed you can find her on Paradise Prime!
 
 ## 1-click Install:  
 [Use FP2 Mod Manager](https://gamebanana.com/tools/10870).  
+[![]("https://gamebanana.com/mods/embeddables/411008?type=medium_square")](https://gamebanana.com/mods/411008)
 
 ## Manual Install:  
 
