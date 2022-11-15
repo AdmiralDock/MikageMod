@@ -83,11 +83,12 @@ namespace MikageMod
                 }
 
                 int id = FPSaveManager.GetNPCNumber("Mikage");
-                if (FPSaveManager.npcDialogHistory[id].dialog.Length != 3 && FPSaveManager.npcDialogHistory[id].dialog != null)
+                if (FPSaveManager.npcDialogHistory[id].dialog != null && FPSaveManager.npcDialogHistory[id].dialog.Length != 3)
                 {
                     FPSaveManager.npcDialogHistory[id].dialog = new bool[3];
                 }
-                else if (id != 0 && FPSaveManager.npcDialogHistory[id].dialog == null) {
+                else if (id != 0 && FPSaveManager.npcDialogHistory[id].dialog == null)
+                {
                     FPSaveManager.npcDialogHistory[id].dialog = new bool[3];
                 }
             }
